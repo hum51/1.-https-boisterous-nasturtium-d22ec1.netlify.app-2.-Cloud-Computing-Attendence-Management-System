@@ -1,0 +1,2 @@
+# 1.-https-boisterous-nasturtium-d22ec1.netlify.app-2.-Cloud-Computing-Attendence-Management-System
+A cloud-hosted web application deployed on Netlify that provides fast, scalable, and accessible online functionality for users.  A system that uses cloud technology to record, manage, and monitor attendance in real-time. It ensures secure data storage, easy access, and efficient tracking from anywhere. 
